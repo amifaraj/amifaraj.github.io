@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes@4.18.1
+minimal_mistakes_skin: default
+
+plugins:
+  - jekyll-include-cache

@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+---
+title: Amifa Raj
+layout: splash
+header:
+    overlay_filter: "0.5"
+    overlay_image: /images/amifaraj.jpg
+    caption: "Amifa Raj"
+excerpt:
+    PhD candidate, Graduate Reserach Assistant at Boise State University.
+---
+**ABOUT**
 
-You can use the [editor on GitHub](https://github.com/amprova/amifaraj.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Amifa Raj. Currently I am working as Graduate Reserach Assistant at [Department of Computer Science](https://www.boisestate.edu/computing/) of Boise State University. I am pursuing my PhD degree on the Computer Science emphasis under the supervision of [Dr. Michael Ekstrand](https://md.ekstrandom.net/). I am an active member of the People and Information Research Team [(PIReT)](http://piret.info/) since Fall-2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**Links**
+
+-  [Boise State CS](https://www.boisestate.edu/computing/directory/student-directory/amifa-raj/)
+-  [PIReT](http://piret.info/people/)
+-  [Twitter](https://twitter.com/rajamifa)
+-  [LinkedIn Profile](https://www.linkedin.com/in/amifa-raj-a0b9b9152/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
