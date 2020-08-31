@@ -1,4 +1,8 @@
 #theme: jekyll-theme-slate
+title: Amifa Raj
+name: Amifa Raj
+#logo: /images/
+url: https://amprova.github.io/
 remote_theme: mmistakes/minimal-mistakes@4.18.1
 minimal_mistakes_skin: default
 
