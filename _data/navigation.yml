@@ -5,4 +5,6 @@ main:
     url: /pubs/
   - title: "Activities"
     url: /Activities/
+  - title: "Contact"
+    url: /Contact/
    
