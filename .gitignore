@@ -1,0 +1,4 @@
+.bundle/ruby
+_site/
+/.idea/
+/.jekyll-metadata

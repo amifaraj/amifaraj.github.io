@@ -1,6 +1,8 @@
 ---
 title: Amifa Raj
-layout: splash
+layout: home
+classes:
+- homepage
 header:
     overlay_filter: "0.5"
     overlay_image: /images/amifaraj.jpg
@@ -8,6 +10,7 @@ header:
 excerpt:
     PhD candidate, Graduate Reserach Assistant at Boise State University.
 ---
+
 **ABOUT**
 
 I am Amifa Raj. Currently I am working as Graduate Reserach Assistant at [Department of Computer Science](https://www.boisestate.edu/computing/) of Boise State University. I am pursuing my PhD degree on the Computer Science emphasis under the supervision of [Dr. Michael Ekstrand](https://md.ekstrandom.net/). I am an active member of the People and Information Research Team [(PIReT)](http://piret.info/) since Fall-2018.
@@ -17,6 +20,7 @@ I am Amifa Raj. Currently I am working as Graduate Reserach Assistant at [Depart
 
 -  [Boise State CS](https://www.boisestate.edu/computing/directory/student-directory/amifa-raj/)
 -  [PIReT](http://piret.info/people/)
+-  [Google Scholar](https://scholar.google.com/citations?hl=en&user=lAj1gzAAAAAJ)
 -  [Twitter](https://twitter.com/rajamifa)
 -  [LinkedIn Profile](https://www.linkedin.com/in/amifa-raj-a0b9b9152/)
 
