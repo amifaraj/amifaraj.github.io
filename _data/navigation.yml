@@ -3,8 +3,9 @@ main:
     url: /CV/Resume_Amifa_Raj.pdf
   - title: "Publications"
     url: /pubs/
+  - title: "Projects"
+    url: /Projects/ 
   - title: "Activities"
     url: /Activities/
   - title: "Contact"
     url: /Contact/
-   
