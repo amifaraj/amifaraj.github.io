@@ -18,7 +18,7 @@ header:
 	<br>1910 University Drive
 	<br>Boise, ID 83725-2055
 	<br>USA
--Social Media:
+- Social Media:
 
 [![Image](/images/twitter.png){: style="float:left;margin-left: 5em; width:30px"}](https://twitter.com/rajamifa)
 [![Image](/images/linked.png){: style="float:left;margin-left: 1em; width:30px"}](https://www.linkedin.com/in/amifa-raj-a0b9b9152/)
