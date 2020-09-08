@@ -26,3 +26,5 @@ minimal_mistakes_skin: default
 
 plugins:
   - jekyll-include-cache
+plugins:
+  - jekyll-figure

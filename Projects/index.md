@@ -14,16 +14,22 @@ automatically takes care of laying out the alternating picture display.
 
 {: .project-list}
 
--   ![Bias](../images/bias.jpg)
+-   [![Bias](../images/bias.jpg "Photo by Jon Tyson on Unsplash")](https://unsplash.com/photos/qn6mBa0twDY)
     {: .pic}
 
-    **Bias and Discrimination in Recommender Systems** 
+	**Bias and Discrimination in Recommender Systems** 
 	Researches on advancement of recommender systems have lead to the question of fairness. Reseraches have shown that recommender systems can be susceptible to bias. However, the definition of fairness, the source of unfairness, the impact of bias in recommndations, and the mitigation of the situation are still some unresolved issues to work on.
 	In this project, we are focusing on fairness in ranked output by conducting following analysis:
-
+	<div class="list-item">
 	1. Comparison among the fair ranking metrics
-	2. 
+	<br>2. Investigating impact of reviews in introducing bias in recommendations
+	</div>
+	
+-   [![Review](../images/review.jpg "Photo by Morning Brew on Unsplash")](https://unsplash.com/photos/ShVipPImS6k)
+    {: .pic}
 
     **Review-based Recommendations** 
 
+    Reviews are one of the pervasive source of information in generating recommendations. Users express their emotion, feelings towards the items through text reviews. Analyzing and extracting useful information from reviews can be helpful for improving recommendations. For this project we are investigating the usefulness of reviews along with item metadata in mitigating item cold-start problems. 
+    
 

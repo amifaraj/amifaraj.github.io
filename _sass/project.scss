@@ -1,5 +1,5 @@
 .project-list {
-    display: block;
+    
     padding-inline-start: 0;
 
     li {
@@ -9,11 +9,18 @@
 
         .pic img {
             height: 200px;
+
         }
     }
+    .list {
+        display: content;
+
+       } 
     li:nth-child(odd) .pic {
         float: right;
         padding-left: 1ex;
+
+
     }
 
     li:nth-child(even) .pic {
@@ -22,5 +29,6 @@
     }
 
 }
+
 
 
