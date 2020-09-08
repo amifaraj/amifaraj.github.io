@@ -13,7 +13,7 @@ excerpt: PhD Candidate, Graduate Research Assistant
 
 **ABOUT**
 
-I am working as a Graduate Reserach Assistant at [Department of Computer Science](https://www.boisestate.edu/coen-cs/) of Boise State University. I am pursuing my PhD degree on the Computer Science Emphasis under the supervision of [Dr. Michael Ekstrand](https://md.ekstrandom.net/). As an active member of the People and Information Research Team [(PIReT)](http://piret.info/), I participate in paper discussions and work on collaborative research projects.
+I am working as a Graduate Reserach Assistant at [Department of Computer Science](https://www.boisestate.edu/coen-cs/) of [Boise State University](https://www.boisestate.edu/). I am pursuing my PhD degree on the Computer Science Emphasis under the supervision of [Dr. Michael Ekstrand](https://md.ekstrandom.net/). As an active member of the People and Information Research Team [(PIReT)](http://piret.info/), I participate in paper discussions and work on collaborative research projects.
 
 After completing my Bachelor's degree from [Department of Computer Science and Engineering](http://www.cse.du.ac.bd/) of [University of Dhaka](https://www.du.ac.bd/), I moved from Bangladesh to USA to start my PhD journey.
 
