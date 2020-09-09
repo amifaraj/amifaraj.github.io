@@ -10,9 +10,10 @@ header:
 
 ## 2020
 
-- Passed PhD qualification exam on 10th August, 2020.
+- **Aug 10, 2020**- Passed PhD qualification exam.
+- **Aug 21, 2020**- First paper got accepted at [FAccTRec](https://facctrec.github.io/facctrec2020/)
 
 ## 2019
 
-- Participated 13th ACM Conference on Recommender Systems [(RecSys 19)](https://recsys.acm.org/recsys19/) as **student volunteer**.
+- **Sep 15-Sep 20, 2019**- Participated 13th ACM Conference on Recommender Systems [(RecSys 19)](https://recsys.acm.org/recsys19/) as **student volunteer**.
 
