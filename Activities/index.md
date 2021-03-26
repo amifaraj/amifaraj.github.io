@@ -16,7 +16,7 @@ header:
 
 ## 2020
 
-- **Nov 16-Nov 22**- Participated Text REtrieval Conference [(TREC 20)][https://trec.nist.gov/] as co-organizer of [**Trec 2021 Fair Ranking Track**](https://fair-trec.github.io/)
+- **Nov 16-Nov 22**- Participated Text REtrieval Conference [(TREC 20)](https://trec.nist.gov/) as co-organizer of [**Trec 2021 Fair Ranking Track**](https://fair-trec.github.io/)
 
 - **Sep 26, 2020**- Presented paper at [FAccTRec](https://facctrec.github.io/facctrec2020/) workshop in [(RecSys 2020)](https://recsys.acm.org/recsys20/)
 
