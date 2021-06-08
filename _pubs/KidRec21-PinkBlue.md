@@ -1,5 +1,5 @@
 ---
-title: Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kids Products in Search and Recommendations
+title: Pink Blue
 date: 2021-05-13
 project: bias
 type: paper
