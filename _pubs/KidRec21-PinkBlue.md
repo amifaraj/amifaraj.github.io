@@ -1,5 +1,5 @@
 ---
-title: Comparing Fair Ranking Metrics
+title: Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations
 date: 2021-05-13
 project: bias
 type: paper
