@@ -20,4 +20,3 @@ Our work provides a direct comparative analysis identifying similarities and dif
 ## Links
 
 * [Paper PDF](https://arxiv.org/abs/2009.01311)
-* [Presentation](videos/AmifaRaj_FAccTrec_presentation.mp4)
