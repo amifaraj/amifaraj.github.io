@@ -1,5 +1,5 @@
 ---
-title: Pink Blue
+title: Pink for Princesses, Blue for Superheroes
 date: 2021-05-13
 project: bias
 type: paper

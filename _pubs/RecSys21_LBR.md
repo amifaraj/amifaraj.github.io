@@ -1,12 +1,12 @@
 ---
-title: Baby Shark
+title: Baby Shark to Barracuda
 date: 2021-09-13
 #project: bias
 type: paper
 ---
 
 {: .citation}
-Lawrence Spear, Ashlee Milton, Garrett Allen, Amifa Raj, Michael Green, Michael D. Ekstrand, and Maria Soledad Pera. 2021. ["Baby Shark to Barracuda"](#). To appear in <cite> Proceedings of the 15th ACM Conference on Recommender Systems (RecSys '21) Late-Breaking Results.</cite>DOI 10.1145/3460231.3478856.
+Lawrence Spear, Ashlee Milton, Garrett Allen, Amifa Raj, Michael Green, Michael D. Ekstrand, and Maria Soledad Pera. 2021. ["Baby Shark to Barracuda: Analyzing Children’s Music Listening Behavior."](#). To appear in <cite> Proceedings of the 15th ACM Conference on Recommender Systems (RecSys '21) Late-Breaking Results.</cite> [DOI 10.1145/3460231.3478856](https://doi.org/10.1145/3460231.3478856)
 
 ## Abstract
 
