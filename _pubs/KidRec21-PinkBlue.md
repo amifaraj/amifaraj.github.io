@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Amifa Raj, Ashlee Milton and Michael D. Ekstrand. 2021. ["Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations"](#). To appear in <cite>Proceedings of the 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems (KidRec) Search and Recommendation Technology through the Lens of a Teacher- Co-located with ACM IDC 2021 (KidRec 21)</cite>.
+\textbf{Amifa Raj}, Ashlee Milton and Michael D. Ekstrand. 2021. ["Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations"](#). To appear in <cite>Proceedings of the 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems (KidRec) Search and Recommendation Technology through the Lens of a Teacher- Co-located with ACM IDC 2021 (KidRec 21)</cite>.
 
 ## Abstract
 
