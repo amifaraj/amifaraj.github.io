@@ -30,6 +30,9 @@ Recommender Systems, Information Retrieval, Machine Learning, Natural Language P
 [![Image](/images/googlescholar.png){: style="float:left;margin-left:1em;width:30px"}](https://scholar.google.com/citations?hl=en&user=lAj1gzAAAAAJ)
 [![Image](/images/boiselogo.png){: style="float:left;margin-left:1em;width:30px"}](https://www.boisestate.edu/computing/directory/student-directory/amifa-raj/)
 [![Image](/images/piret.png){: style="float:left;margin-left:1em;width:30px"}](http://piret.info/people/)
+[![Semantic Scholar](/images/semantic.png){: style="float:left;margin-left: 1em; width:30px"}](https://www.semanticscholar.org/author/Amifa-Raj/1920784888)
+[![ORCID](/images/orcid.png){: style="float:left;margin-left: 1em; width:30px"}](https://orcid.org/0000-0002-8874-6645)
+[![Researchgate](/images/rg.png){: style="float:left;margin-left: 1em; width:30px"}](https://www.researchgate.net/profile/Amifa_Raj)
 
 
 
