@@ -10,7 +10,7 @@ header:
 
 ## 2021
 
-- **Sep 30, 2021**- Presented a collaborative [(LBR paper)](https://dl.acm.org/doi/10.1145/3460231.3478856) of PIReT research work at 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/).
+- **Sep 30, 2021**- Presented a collaborative [(LBR paper)](https://dl.acm.org/doi/10.1145/3460231.3478856) of PIReT research group at 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/).
 
 - **Sep 24-Oct 2, 2021**- Participated 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/) as **student volunteer**.
 
