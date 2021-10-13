@@ -10,6 +10,10 @@ header:
 
 ## 2021
 
+- **Sep 30, 2021**- Presented a collaborative [(LBR paper)](https://dl.acm.org/doi/10.1145/3460231.3478856) of PIReT research work at 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/).
+
+- **Sep 24-Oct 2, 2021**- Participated 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/) as **student volunteer**.
+
 - **Mar 23, 2021**- Presented a talk on [**Comparing Fair Ranking Metrics**](https://www.youtube.com/watch?v=vwwHIUotpQs&t=3s) at Fairness and Bias in Information Retrieval workshop organized by University of Glasgow. [Slides are available here:](resources/Glasgow_workshop.pdf)
 
 - **Mar 3-Mar 10, 2021**- Participated 4th annual ACM Conference on Fairness, Accountability, and Transparency [(FAccT 21)](https://facctconference.org/2021/) as **student volunteer**.
