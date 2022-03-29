@@ -25,14 +25,14 @@ automatically takes care of laying out the alternating picture display.
 	<br>2. Investigating impact of reviews in introducing bias in recommendations
 	</div>
 	
--   [![Stereotype](../images/review.jpg "Photo by Yogi Purnama on Unsplash")](https://unsplash.com/photos/7JzyLiUj0pQ)
+-   [![Stereotype](../images/stereotype.jpeg "Photo by Yogi Purnama on Unsplash")](https://unsplash.com/photos/7JzyLiUj0pQ)
     {: .pic}
 
     **Stereotype in Information Access Systems** 
 
     Information access systems like search engines and recommender systems may perpetuate social stereotypes and reinforce them through their results. In this porject, we aim to address this issue by working on identifying and measuring the stereotypes in retrieved results. Currently we are focusing on the tendency of replicating and manifesting gender stereotypes associated with children's products through retrived results. We hope this research will contribute towards developing safe web enviroment for children.
 
--   [![Review](../images/stereotype.jpeg "Photo by Morning Brew on Unsplash")](https://unsplash.com/photos/ShVipPImS6k)
+-   [![Review](../images/review.jpg "Photo by Morning Brew on Unsplash")](https://unsplash.com/photos/ShVipPImS6k)
     {: .pic}
 
     **Review-based Recommendations** 
