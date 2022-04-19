@@ -17,7 +17,7 @@ I am working as a Graduate Reserach Assistant at [Department of Computer Science
 
 After completing my Bachelor's degree from [Department of Computer Science and Engineering](http://www.cse.du.ac.bd/) of [University of Dhaka](https://www.du.ac.bd/), I moved from Bangladesh to USA to start my PhD journey.
 
-![Amifa Raj](/images/amifa.jpg){: style="float:right;margin-right:2em;width:300px;"}
+![Amifa Raj](/images/headshot.jpg){: style="float:right;margin-right:2em;width:300px;"}
 
 **Research Interest**
 
