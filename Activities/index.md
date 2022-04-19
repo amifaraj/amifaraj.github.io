@@ -28,6 +28,10 @@ header:
 
 - **Sep 24-Oct 2, 2021**- Participated 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/) as **student volunteer**.
 
+- **July 27, 2021**- Presented my position paper [Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations](https://arxiv.org/abs/2105.09296) at 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems [(KidRec 2021)](https://kidrec.github.io/2021/) Co-located with [ACM IDC 2021](https://idc.acm.org/2021/)
+
+- **May 13, 2021**- My position paper on the existence of gender streotypes associated with children products titled got accepted at 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems [(KidRec 21)](https://kidrec.github.io/2021/)
+
 - **Mar 23, 2021**- Presented a talk on [**Comparing Fair Ranking Metrics**](https://www.youtube.com/watch?v=vwwHIUotpQs&t=3s) at Fairness and Bias in Information Retrieval workshop organized by University of Glasgow. [Slides are available here:](resources/Glasgow_workshop.pdf)
 
 - **Mar 3-Mar 10, 2021**- Participated 4th annual ACM Conference on Fairness, Accountability, and Transparency [(FAccT 21)](https://facctconference.org/2021/) as **student volunteer**.
