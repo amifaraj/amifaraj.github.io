@@ -10,19 +10,19 @@ header:
 
 ## 2022
 
-- **Apr 5, 2022**- My first full paper got accepted at the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval [SIGIR 2022](https://sigir.org/sigir2022/)
+- **Apr 5, 2022**- My first full paper got accepted at the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval [(SIGIR 2022)](https://sigir.org/sigir2022/)
 
-- 2nd year of working as a co-organizer of [Fair Ranking Track] (https://fair-trec.github.io/) at [TREC] (https://trec.nist.gov/)
+- 2nd year of working as a co-organizer of [Fair Ranking Track](https://fair-trec.github.io/) at [TREC](https://trec.nist.gov/)
 
 - **Jan 10, 2022**- Excited to serve as co-chair of Student Volunteer at 15th ACM Conference on Recommender Systems [(Recsys 2022)] (https://recsys.acm.org/recsys22/)
 
--  **Mar 22, 2022**- Co-organizing [5th FAccTRec Workshop: Responsible Recommendation] (https://facctrec.github.io/facctrec2022/) at 15th ACM Conference on Recommender Systems [(RecSys 2022)] (https://recsys.acm.org/recsys22/)
+-  **Mar 22, 2022**- Co-organizing [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at 15th ACM Conference on Recommender Systems [(RecSys 2022)](https://recsys.acm.org/recsys22/)
 
 ## 2021
 
-- **Nov 16 2021**- Presented the [overview of TREC 2021 Fair Ranking Track] (https://trec.nist.gov/pubs/trec30/papers/Overview-F.pdf) at TREC 2021] (https://trec.nist.gov/)
+- **Nov 16 2021**- Presented the [overview of TREC 2021 Fair Ranking Track](https://trec.nist.gov/pubs/trec30/papers/Overview-F.pdf) at TREC 2021](https://trec.nist.gov/)
 
-- Excited to work as one of the co-organizers of [Fair Ranking Track] (https://fair-trec.github.io/2021/) at [TREC 2021] (https://trec.nist.gov/)
+- Excited to work as one of the co-organizers of [Fair Ranking Track](https://fair-trec.github.io/2021/) at [TREC 2021](https://trec.nist.gov/)
 
 - **Sep 30, 2021**- Presented a collaborative [(LBR paper)](https://dl.acm.org/doi/10.1145/3460231.3478856) of PIReT research group at 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/).
 
