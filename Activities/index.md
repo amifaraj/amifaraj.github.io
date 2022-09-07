@@ -10,9 +10,17 @@ header:
 
 ## 2022
 
+- **August 5th, 2022**- Completed my summer internship as applied scientist intern with Microsoft.
+
+- **July 14, 2022**- Presented workshop paper [Fire Dragon and Unicorn Princess; Gender Stereotypes and Children's Products in Search Engine Responses](https://arxiv.org/abs/2206.13747) at the 2022 SIGIR Workshop On eCommerce [(SIGIR eCom'2022)](https://sigir-ecom.github.io/)
+
+- **July 14, 2022**- Presented my first full paper [Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison](https://dl.acm.org/doi/10.1145/3477495.3532018) at the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval [(SIGIR 2022)](https://sigir.org/sigir2022/)
+
 - **Apr 5, 2022**- My first full paper got accepted at the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval [(SIGIR 2022)](https://sigir.org/sigir2022/)
 
 - 2nd year of working as a co-organizer of [Fair Ranking Track](https://fair-trec.github.io/) at [TREC](https://trec.nist.gov/)
+
+- **Jan 31, 2022**- Received an Applied Scientist internship offer from Microsoft in the WebXT Search and Distribution team.
 
 - **Jan 10, 2022**- Excited to serve as co-chair of Student Volunteer at 15th ACM Conference on Recommender Systems [(Recsys 2022)] (https://recsys.acm.org/recsys22/)
 
