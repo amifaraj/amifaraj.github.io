@@ -22,7 +22,7 @@ header:
 
 - **Jan 31, 2022**- Received an Applied Scientist internship offer from Microsoft in the WebXT Search and Distribution team.
 
-- **Jan 10, 2022**- Excited to serve as co-chair of Student Volunteer at 15th ACM Conference on Recommender Systems [(Recsys 2022)] (https://recsys.acm.org/recsys22/)
+- **Jan 10, 2022**- Excited to serve as co-chair of Student Volunteer at 15th ACM Conference on Recommender Systems [(Recsys 2022)](https://recsys.acm.org/recsys22/)
 
 -  **Mar 22, 2022**- Co-organizing [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at 15th ACM Conference on Recommender Systems [(RecSys 2022)](https://recsys.acm.org/recsys22/)
 
