@@ -10,6 +10,16 @@ header:
 
 ## 2022
 
+
+
+ - **Sept 23rd, 2022**- Co-organized [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at 16th ACM Conference on Recommender Systems [(RecSys 2022)](https://recsys.acm.org/recsys22/).
+
+- **Sept 16th, 2022**- Presented my first PhD work and progress(https://dl.acm.org/doi/abs/10.1145/3523227.3547430) at the Doctoral Symposium in the 16th ACM Conference on Recommender Systems
+ [(RecSys 2022)](https://recsys.acm.org/recsys22/)
+
+
+ - **Sep 16th-Sept 23rd, 2022**- Participated 16th ACM Conference on Recommender Systems [(RecSys 22)](https://recsys.acm.org/recsys22/) as one of the **student volunteer Co-Chairs**.
+
 - **August 5th, 2022**- Completed my summer internship as applied scientist intern with Microsoft.
 
 - **July 14, 2022**- Presented workshop paper [Fire Dragon and Unicorn Princess; Gender Stereotypes and Children's Products in Search Engine Responses](https://arxiv.org/abs/2206.13747) at the 2022 SIGIR Workshop On eCommerce [(SIGIR eCom'2022)](https://sigir-ecom.github.io/)
@@ -22,7 +32,7 @@ header:
 
 - **Jan 31, 2022**- Received an Applied Scientist internship offer from Microsoft in the WebXT Search and Distribution team.
 
-- **Jan 10, 2022**- Excited to serve as co-chair of Student Volunteer at 15th ACM Conference on Recommender Systems [(Recsys 2022)](https://recsys.acm.org/recsys22/)
+- **Jan 10, 2022**- Excited to serve as co-chair of Student Volunteer at 16th ACM Conference on Recommender Systems [(Recsys 2022)](https://recsys.acm.org/recsys22/)
 
 -  **Mar 22, 2022**- Co-organizing [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at 15th ACM Conference on Recommender Systems [(RecSys 2022)](https://recsys.acm.org/recsys22/)
 
@@ -34,7 +44,7 @@ header:
 
 - **Sep 30, 2021**- Presented a collaborative [(LBR paper)](https://dl.acm.org/doi/10.1145/3460231.3478856) of PIReT research group at 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/).
 
-- **Sep 24-Oct 2, 2021**- Participated 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/) as **student volunteer**.
+- **Sep 24-Oct 2, 2021**- Participated 15th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/) as **student volunteer**.
 
 - **July 27, 2021**- Presented my position paper [Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations](https://arxiv.org/abs/2105.09296) at 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems [(KidRec 2021)](https://kidrec.github.io/2021/) Co-located with [ACM IDC 2021](https://idc.acm.org/2021/)
 
@@ -50,7 +60,7 @@ header:
 
 - **Sep 26, 2020**- Presented paper on [**Comparing Fair Ranking Metrics**](resources/FAccTRec_20.pdf) at [FAccTRec](https://facctrec.github.io/facctrec2020/) workshop in [(RecSys 2020)](https://recsys.acm.org/recsys20/)
 
-- **Sep 23-Sep 26, 2020**- Participated 13th ACM Conference on Recommender Systems [(RecSys 20)](https://recsys.acm.org/recsys20/) as **student volunteer**.
+- **Sep 23-Sep 26, 2020**- Participated 14th ACM Conference on Recommender Systems [(RecSys 20)](https://recsys.acm.org/recsys20/) as **student volunteer**.
 
 - **Aug 21, 2020**- First paper got accepted at [FAccTRec](https://facctrec.github.io/facctrec2020/)
 - **Aug 10, 2020**- Passed PhD qualification exam. Presented a comprehensive overview on [Review-based Recommendations](resources/Comprehensive_exam_AmifaRaj.pdf).
