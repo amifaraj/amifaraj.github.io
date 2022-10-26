@@ -17,12 +17,14 @@ automatically takes care of laying out the alternating picture display.
 -   [![Bias](../images/bias.jpg "Photo by Jon Tyson on Unsplash")](https://unsplash.com/photos/qn6mBa0twDY)
     {: .pic}
 
-	**Bias and Discrimination in Recommender Systems** 
-	Researches on advancement of recommender systems have lead to the question of fairness. Reseraches have shown that recommender systems can be susceptible to bias. However, the definition of fairness, the source of unfairness, the impact of bias in recommndations, and the mitigation of the situation are still some unresolved issues to work on.
-	In this project, we are focusing on fairness in ranked output by conducting following analysis:
+	**Measuring Fairness in Ranked List** 
+	Information access systems like search engines and recommender systems suffer from fairness and bias issues. These systems usually present retrieved results in ranked lists to users and items with similar relevance in the lists may receive unequal exposure based on their demographic group membership.
+	In this project, we are focusing on measuring fairness in ranked output by conducting following analyses:
 	<div class="list-item">
-	1. Comparison among the fair ranking metrics
-	<br>2. Investigating impact of reviews in introducing bias in recommendations
+	1. Describing existing fair ranking metrics using unified notations.
+	<br>2. Identifying the limitaions of the existign metrics and gaps in fair ranking metrics research area
+	<br>3. Sensitivity analysis on the fair ranking metrics.
+	<br>4. Designing fair ranking metric with broader applicability.
 	</div>
 	
 -   [![Stereotype](../images/stereotype.jpeg "Photo by Yogi Purnama on Unsplash")](https://unsplash.com/photos/7JzyLiUj0pQ)
@@ -35,8 +37,4 @@ automatically takes care of laying out the alternating picture display.
 -   [![Review](../images/review.jpg "Photo by Morning Brew on Unsplash")](https://unsplash.com/photos/ShVipPImS6k)
     {: .pic}
 
-    **Review-based Recommendations** 
-
-    Reviews are one of the pervasive source of information in generating recommendations. Users express their emotion, feelings towards the items through text reviews. Analyzing and extracting useful information from reviews can be helpful for improving recommendations. For this project we are investigating the usefulness of reviews along with item metadata in mitigating item cold-start problems. 
-    
 

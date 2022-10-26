@@ -14,7 +14,7 @@ header:
 
  - **Sept 23rd, 2022**- Co-organized [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at 16th ACM Conference on Recommender Systems [(RecSys 2022)](https://recsys.acm.org/recsys22/).
 
-- **Sept 16th, 2022**- Presented my first PhD work and progress(https://dl.acm.org/doi/abs/10.1145/3523227.3547430) at the Doctoral Symposium in the 16th ACM Conference on Recommender Systems
+- **Sept 16th, 2022**- Presented my PhD work and progress [Fair Ranking Metrics](https://dl.acm.org/doi/abs/10.1145/3523227.3547430) at the Doctoral Symposium in the 16th ACM Conference on Recommender Systems
  [(RecSys 2022)](https://recsys.acm.org/recsys22/)
 
 
