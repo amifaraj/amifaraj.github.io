@@ -7,7 +7,7 @@ header:
     overlay_filter: "0.4"
     overlay_image: /images/homeimage.jpg
     caption: "Photo by [Ahmed Hasan](https://unsplash.com/@carsive) on [Unsplash](https://unsplash.com/s/photos/bangladesh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
-excerpt: PhD Student, Graduate Research Assistant
+excerpt: PhD Candidate, Graduate Research Assistant
     
 ---
 
