@@ -10,7 +10,7 @@ header:
 
 ## 2022
 
-- **Dec 13th, 2022**- A research paper on the use of gender in the information access research got accepted at [CHIIR 2023](https://sigir.org/chiir2023/). This is a collaboration with Christine Pinney, Alex Hanna, and Dr. Michael Ekstrand. 
+- **Dec 13th, 2022**- A research paper on the use of gender in the information access research got accepted at [CHIIR 2023](https://sigir.org/chiir2023/). This is a collaboration with Christine Pinney, Dr. Alex Hanna, and Dr. Michael Ekstrand. 
 
 - **Dec 13th, 2022**- Passed PhD proposal defense.
  
