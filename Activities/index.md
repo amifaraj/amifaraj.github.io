@@ -13,6 +13,8 @@ header:
 - **Dec 13th, 2022**- A research paper on the use of gender in the information access research got accepted at [CHIIR 2023](https://sigir.org/chiir2023/). This is a collaboration with Christine Pinney, Dr. Alex Hanna, and Dr. Michael Ekstrand. 
 
 - **Dec 13th, 2022**- Passed PhD proposal defense.
+
+- **Nov 14th-Nov 15th, 2022**- Attended [TREC 2022](https://trec.nist.gov/pubs/call2022.html) as the co-organizer of [Fair Ranking Track](https://fair-trec.github.io/).
  
  - **Sept 23rd, 2022**- Co-organized [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at 16th ACM Conference on Recommender Systems [(RecSys 2022)](https://recsys.acm.org/recsys22/).
 
