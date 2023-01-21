@@ -11,7 +11,7 @@ header:
 Here are some of the slides from my talks and paper presentations.
 
 ## 2023
- - [Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison](resources/SEA_talk.pdf) at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam [SEA(https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/).
+ - [Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison](resources/SEA_talk.pdf) at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam [SEA](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/).
 
 ## 2022
 
