@@ -7,5 +7,7 @@ main:
     url: /Projects/ 
   - title: "Activities"
     url: /Activities/
-  - title: "Contact"
+  - title: "Slides"
+    url: /Activities/
+  - title: "Slides"
     url: /Contact/
