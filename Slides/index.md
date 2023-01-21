@@ -40,7 +40,7 @@ Here are some of the slides from my talks and paper presentations.
 - [Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations](resources/KidRec21.pdf) at 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems [(KidRec 2021)](https://kidrec.github.io/2021/) Co-located with [ACM IDC 2021](https://idc.acm.org/2021/)
 
 
-- [Comparing Fair Ranking Metrics](resources/Glasgow_workshop.pdf).
+- [Comparing Fair Ranking Metrics](resources/Glasgow_workshop.pdf) at the Fairness and Bias in Information Retrieval workshop organized by University of Glasgow. (video)[(https://www.youtube.com/watch?v=vwwHIUotpQs&t=3s)]
 
 ## 2020
 
