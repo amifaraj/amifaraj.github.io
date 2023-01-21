@@ -4,21 +4,21 @@ layout: single
 toc: true
 header:
     
-    overlay_image: /images/activities.jpg
+    overlay_image: /images/slides.jpeg
     caption: "Photo by [Mike Kenneally](https://unsplash.com/@asthetik) on [Unsplash](https://unsplash.com/s/photos/coffee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 ---
 
 Here are some of the slides from my talks and paper presentations.
 
 ## 2023
- - [Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison](resources/SEA_talk.pdf) at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam (SEA)[https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/].
+ - [Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison](resources/SEA_talk.pdf) at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam [SEA(https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/).
 
 ## 2022
 
 
-- [PhD proposal defense.](resources/AmifaRaj_Proposal_Presentaion.pdf). [Poster](resources/DS_poster.pdf)
+- [PhD proposal defense](resources/AmifaRaj_Proposal_Presentaion.pdf). [Poster](resources/DS_poster.pdf)
 
-- [Fair Ranking Metrics]([resources/Fair_Ranking_Metrics.pdf]) at the Doctoral Symposium in the 16th ACM Conference on Recommender Systems
+- [Fair Ranking Metrics]([resources/Fair_Ranking_Metrics.pdf) at the Doctoral Symposium in the 16th ACM Conference on Recommender Systems
  [(RecSys 2022)](https://recsys.acm.org/recsys22/).
 
 - [Overview of TREC 2022 Fair Ranking Track](resources/Fair_TREC_2022_Overview.pdf) at [TREC 2022](https://trec.nist.gov/)
@@ -34,7 +34,7 @@ Here are some of the slides from my talks and paper presentations.
 
 
 - [Baby Shark to Barracuda: Analyzing Children’s Music Listening Behavior
-](resources/Baby_shark.pptx) at 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/).
+](resources/Baby_shark.pdf) at 14th ACM Conference on Recommender Systems [(RecSys 21)](https://recsys.acm.org/recsys21/).
 
 
 - [Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations](resources/KidRec21.pdf) at 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems [(KidRec 2021)](https://kidrec.github.io/2021/) Co-located with [ACM IDC 2021](https://idc.acm.org/2021/)
