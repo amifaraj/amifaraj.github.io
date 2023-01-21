@@ -8,6 +8,10 @@ header:
     caption: "Photo by [Mike Kenneally](https://unsplash.com/@asthetik) on [Unsplash](https://unsplash.com/s/photos/coffee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 ---
 
+## 2023
+
+- **Jan 20th, 2022**- I gave a talk on my work on fair ranking metrics at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam (SEA)[https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/].
+
 ## 2022
 
 - **Dec 13th, 2022**- A research paper on the use of gender in the information access research got accepted at [CHIIR 2023](https://sigir.org/chiir2023/). This is a collaboration with Christine Pinney, Dr. Alex Hanna, and Dr. Michael Ekstrand. 
