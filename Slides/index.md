@@ -5,7 +5,7 @@ toc: true
 header:
     
     overlay_image: /images/slides.jpeg
-    caption: "Photo by [Mike Kenneally](https://unsplash.com/@asthetik) on [Unsplash](https://unsplash.com/s/photos/coffee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
+    caption: "Photo by [Alex Litvin](https://unsplash.com/@alexlitvin) on [Unsplash](https://unsplash.com/)"
 ---
 
 Here are some of the slides from my talks and paper presentations.
