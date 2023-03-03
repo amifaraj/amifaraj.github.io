@@ -1,12 +1,12 @@
 ---
 title: Overview of the TREC 2021 Fair Ranking Track
-date: 2022-02-11
+date: 2022-02-14
 project: bias
 type: paper
 ---
 
 {: .citation}
-Michael D Ekstrand, Graham McDonald, Amifa Raj, Isaac Johnson. 2023. ["Overview of the TREC 2021 Fair Ranking Track"](#). Published in <cite>the Thirteenth Text REtrieval Conference Proceedings (TREC)</cite>.
+Michael D Ekstrand, Graham McDonald, Amifa Raj, Isaac Johnson. 2021. ["Overview of the TREC 2021 Fair Ranking Track"](#). In <cite>the Thirteenth Text REtrieval Conference Proceedings (TREC)</cite>.
 
 ## Abstract
 

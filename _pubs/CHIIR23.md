@@ -1,6 +1,6 @@
 ---
 title: "Much Ado About Gender: Current Practices and Future Recommendations for Appropriate Gender-Aware Information Access"
-date: 2023-03-19
+date: 2023-01-13
 project: bias
 type: paper
 ---

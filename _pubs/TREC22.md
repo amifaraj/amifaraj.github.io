@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D Ekstrand, Graham McDonald, Amifa Raj, Isaac Johnson. 2022. ["Overview of the TREC 2022 Fair Ranking Track"](#). Appear to be in<cite>the Proceedings of the Fourteenth Text REtrieval Conference Proceedings (TREC)</cite>.
+Michael D Ekstrand, Graham McDonald, Amifa Raj, Isaac Johnson. 2022. ["Overview of the TREC 2022 Fair Ranking Track"](#). Appear to be in <cite>the Proceedings of the Fourteenth Text REtrieval Conference Proceedings (TREC)</cite>.
 
 ## Abstract
 
