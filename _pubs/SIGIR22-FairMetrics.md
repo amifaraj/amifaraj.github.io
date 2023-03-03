@@ -7,7 +7,7 @@ doi: 10.1145/3477495.3532018
 ---
 
 {:.citation}
-Amifa Raj, Michael D. Ekstrand. 2022. ["Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison"](#). In <cite>SIGIR '22: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>(July 2022), 726-736. DOI:[10.1145/3477495.3532018](https://doi.org/10.1145/3477495.3532018).
+Amifa Raj, Michael D. Ekstrand. 2022. ["Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison"](#). In<cite>SIGIR '22: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>(July 2022), 726-736. DOI:[10.1145/3477495.3532018](https://doi.org/10.1145/3477495.3532018).
 
 ## Abstract
 
