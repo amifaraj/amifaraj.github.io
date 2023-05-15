@@ -10,6 +10,8 @@ header:
 
 ## 2023
 
+- **Dec 13th, 2022**- A short paper on the patterns of gender-specilizing query reformulation got accepted at [SIGIR 2023](https://sigir.org/sigir2023/). This is an outcome of my work durning my internship at Microsoft. I got the opportunity to collaborate with Bhaskar Mirtra, Nick Craswell, and Michael Ekstrand.
+
 - **Jan 20th, 2022**- I gave a talk on my work on fair ranking metrics at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam (SEA)[https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/].
 
 ## 2022
@@ -21,6 +23,8 @@ header:
 - **Nov 14th-Nov 15th, 2022**- Attended [TREC 2022](https://trec.nist.gov/pubs/call2022.html) as the co-organizer of [Fair Ranking Track](https://fair-trec.github.io/).
  
  - **Sept 23rd, 2022**- Co-organized [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at 16th ACM Conference on Recommender Systems [(RecSys 2022)](https://recsys.acm.org/recsys22/).
+
+- **Sept 16th, 2022**- Made it to the Boise State News!!! [News Link](https://www.boisestate.edu/computing/2022/09/16/student-finds-deeper-knowledge-and-support-at-internship-with-microsoft/)
 
 - **Sept 16th, 2022**- Presented my PhD work and progress [Fair Ranking Metrics](https://dl.acm.org/doi/abs/10.1145/3523227.3547430) at the Doctoral Symposium in the 16th ACM Conference on Recommender Systems
  [(RecSys 2022)](https://recsys.acm.org/recsys22/)
