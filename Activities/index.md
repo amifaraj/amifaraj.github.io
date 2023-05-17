@@ -10,11 +10,13 @@ header:
 
 ## 2023
 
-- **Dec 13th, 2022**- A short paper on the patterns of gender-specilizing query reformulation got accepted at [SIGIR 2023](https://sigir.org/sigir2023/). This is an outcome of my work durning my internship at Microsoft. I got the opportunity to collaborate with Bhaskar Mirtra, Nick Craswell, and Michael Ekstrand.
+- **Dec 13th, 2023**- A short paper on the patterns of gender-specilizing query reformulation got accepted at [SIGIR 2023](https://sigir.org/sigir2023/). This is an outcome of my work durning my internship at Microsoft. I got the opportunity to collaborate with Bhaskar Mirtra, Nick Craswell, and Michael Ekstrand.
 
-- **Mar 18th-Mar 23rd, 2022**- Attended [CHIIR 2023](https://sigir.org/chiir2023/) as co-author of the [paper](https://dl.acm.org/doi/10.1145/3576840.3578316). 
+- **Mar 18th-Mar 23rd, 2023**- Attended [CHIIR 2023](https://sigir.org/chiir2023/) as co-author of the [paper](https://dl.acm.org/doi/10.1145/3576840.3578316). 
 
-- **Jan 20th, 2022**- I gave a talk on my work on fair ranking metrics at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam [SEA](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/).
+- **Feb 2023**- PC member of ACM FAccT conference [FAccT](https://facctconference.org/2023/) 2023.
+
+- **Jan 20th, 2023**- I gave a talk on my work on fair ranking metrics at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam [SEA](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/).
 
 ## 2022
 
@@ -22,7 +24,11 @@ header:
 
 - **Dec 13th, 2022**- Passed PhD proposal defense.
 
+- **Nov 2023**- PC member of workshop on Algorithmic Bias in Search and Recommendation (Bias 2023)[BIAS](https://biasinrecsys.github.io/ecir2023/) at [ECIR](https://ecir2023.org/) 2023.
+
 - **Nov 14th-Nov 15th, 2022**- Attended [TREC 2022](https://trec.nist.gov/pubs/call2022.html) as the co-organizer of [Fair Ranking Track](https://fair-trec.github.io/).
+
+- **Oct 2022**- PC member of [Fairness, Accountability, Transparency, and Ethics on the Web](https://www2023.thewebconf.org/calls/research-tracks/fair-account-trans-ethic/) track of [WebConf](https://www2023.thewebconf.org/) 2023.
  
  - **Sept 23rd, 2022**- Co-organized [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at 16th ACM Conference on Recommender Systems [(RecSys 2022)](https://recsys.acm.org/recsys22/).
 
