@@ -12,7 +12,9 @@ header:
 
 - **Dec 13th, 2022**- A short paper on the patterns of gender-specilizing query reformulation got accepted at [SIGIR 2023](https://sigir.org/sigir2023/). This is an outcome of my work durning my internship at Microsoft. I got the opportunity to collaborate with Bhaskar Mirtra, Nick Craswell, and Michael Ekstrand.
 
-- **Jan 20th, 2022**- I gave a talk on my work on fair ranking metrics at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam (SEA)[https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/].
+- **Mar 18th-Mar 23rd, 2022**- Attended [CHIIR 2023](https://sigir.org/chiir2023/) as co-author of the [paper](https://dl.acm.org/doi/10.1145/3576840.3578316). 
+
+- **Jan 20th, 2022**- I gave a talk on my work on fair ranking metrics at the monthly meetup series of [Information Retrieval Lab at the University of Amsterdam](https://irlab.science.uva.nl/) called Search Engines Amsterdam [SEA](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/).
 
 ## 2022
 
