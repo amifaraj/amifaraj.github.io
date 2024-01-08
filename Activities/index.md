@@ -9,6 +9,13 @@ header:
 ---
 
 ## 2023
+- **December 15th, 2023** - A full paper on measuring and optimizing fairness in grid layout got accepted at [ECIR 2024](https://www.ecir2024.org/).
+
+- **September 18th-20th, 2023** - Virtually attended [RecSys 2023](https://recsys.acm.org/recsys23/committees/) as one of the Student Volunteer Chair. 
+
+- **September 5th, 2023**- Joined Microsoft as an Applied Scientist.
+
+- **July 5th, 2023**- Succesfully defended my PhD. I am a Doctor now!
 
 - **Dec 13th, 2023**- A short paper on the patterns of gender-specilizing query reformulation got accepted at [SIGIR 2023](https://sigir.org/sigir2023/). This is an outcome of my work durning my internship at Microsoft. I got the opportunity to collaborate with Bhaskar Mirtra, Nick Craswell, and Michael Ekstrand.
 
